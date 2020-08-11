@@ -1,0 +1,3 @@
+gerapy-pyppeteer
+gerapy-item-pipeline
+selenium
